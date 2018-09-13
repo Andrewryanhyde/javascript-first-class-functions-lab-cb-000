@@ -16,5 +16,5 @@ function multiplier(a,b) {
   return a * b;
 }
 
-let doubler = createMultiplier(2)
+var doubler = createMultiplier(2)
 let tripler = createMultiplier(3)
