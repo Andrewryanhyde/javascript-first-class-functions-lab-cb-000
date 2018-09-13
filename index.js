@@ -11,3 +11,7 @@ function createMultiplier(multipleValue) {
   };
 
 }
+
+function multiplier(a,b) {
+  return a * b;
+}
