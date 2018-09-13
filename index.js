@@ -1,4 +1,4 @@
-function Countdown(callback) {
+function countdown(callback) {
   setTimeout(function () {
     callback();
 
