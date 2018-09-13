@@ -17,4 +17,4 @@ function multiplier(a,b) {
 }
 
 var doubler = createMultiplier(2)
-let tripler = createMultiplier(3)
+var tripler = createMultiplier(3)
