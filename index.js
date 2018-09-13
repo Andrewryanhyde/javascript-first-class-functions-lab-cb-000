@@ -5,6 +5,9 @@ function countdown(callback) {
   },2000);
 }
 
-function createMultiplier() {
-  
+function createMultiplier(multiplyValue) {
+  return function (value) {
+    return multipleValue * value;
+  };
+
 }
